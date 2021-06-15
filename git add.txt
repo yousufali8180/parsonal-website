@@ -1,0 +1,13 @@
+1st:-
+echo "# parsonal-website" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/yousufali8180/parsonal-website.git
+git push -u origin master
+
+2nd:-
+git remote add origin https://github.com/yousufali8180/parsonal-website.git
+git branch -M master
+git push -u origin master
