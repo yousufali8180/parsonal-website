@@ -1,0 +1,87 @@
+
+body{
+    font-family: 'Viaoda Libre', cursive;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 20px;
+}
+.header-text{
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: darkslategrey 1px 1px 1px;
+}
+
+.link-button{
+    color: seagreen;
+    background-color: darkslategrey;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+    text-shadow:black 5px 0px 5px;
+}
+.color-name{
+    color: orange;
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width a{
+    margin-top:20px;
+    display: inline-block;
+}
+
+.half-width img{
+    width: 100%;
+    padding: 0px 20px 0px 0px;
+    margin-bottom: 70px;
+}
+.header-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 50px;
+    padding-bottom: 50px;
+}
+.biography{
+    font-size: 40px;
+    text-align: center;
+}
+.middle-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.work-intro p{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+    text-shadow:black 5px 0px 5px;
+    text-align: center;
+    display:inline-block;
+}
+.work-area{
+    width: 100%;
+    margin: 10px;
+    display:inline-block;
+}
+.imgbox img{
+    width:250px;
+    height: 250px;
+    float: left;
+
+}
